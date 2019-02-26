@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+title: "IWD Santander 2019"
+email: "marioburi@gmail.com"
+description: "WTM is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "https://gdg-x.github.io"
 permalink: "/blog/:title"
@@ -21,15 +21,15 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
+organizerName: "GDG Santander"
+organizerAlternateName: "Google Developer Group Santander
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerEmail: "marioburi@gmail.com
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, santander"
 twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
@@ -91,10 +91,10 @@ rockstarSpeakersButtonText: "See all speakers"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Conference Hall"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventLocationLink: "http://cabinet.kinopalace.santander.ua/showtimes/"
 eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
+eventAddressLocality: "Santander"
+eventAddressLocalityRegion: "Santanderska"
 eventPostalCode: "79000"
 eventAddressCountry: "Ukraine"
 eventStartTime: "2014-10-25T10:00"
@@ -117,7 +117,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: "http://Santander.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -136,9 +136,9 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "350"
-  priceCurrency: "UAH"
-  ticketsNumber: "150"
+  price: "0"
+  priceCurrency: "EUR"
+  ticketsNumber: "30"
   ribbon: "-5%"
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
@@ -147,9 +147,9 @@ ticketsOffers:
   validThrough: "2014-09-30T23:59"
  -
   name: "Last Chance"
-  price: "450"
-  priceCurrency: "UAH"
-  ticketsNumber: "100"
+  price: "0"
+  priceCurrency: "EUR"
+  ticketsNumber: "30"
   ribbon: "-20%"
   featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
@@ -175,8 +175,8 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+# - {link: "https://twitter.com/intent/user?screen_name=GDGSantander", icon: "twitter"}
+# - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
